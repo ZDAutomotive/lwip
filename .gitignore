@@ -18,9 +18,6 @@
 
 /build
 
-/contrib/examples/example_app/lwipcfg.h
-/contrib/examples/example_app/lwipopts_test.h
-
 /contrib/ports/unix/example_app/build
 /contrib/ports/unix/example_app/example_app
 /contrib/ports/unix/example_app/makefsdata
